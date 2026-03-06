@@ -50,6 +50,7 @@ I build high-performance, type-safe digital ecosystems. My workflow is anchored 
 </p>
 
 ### ⚛️ Exploration: Quantum & AI Research
+
 <p align="left">
 <img alt="PennyLane" src="https://img.shields.io/badge/PennyLane-QML-9A66FF?style=for-the-badge" />
 <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
@@ -89,12 +90,12 @@ I build high-performance, type-safe digital ecosystems. My workflow is anchored 
 ## 📊 Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajithgoveas&show_icons=true&theme=radical&rank_icon=github&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajithgoveas&layout=compact&theme=radical&hide_progress=false" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AjithGoveas&theme=github_dark" width="48%" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AjithGoveas&theme=github_dark" width="48%" alt="GitHub Repositories" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithgoveas&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithgoveas&theme=radical" width="48%" alt="GitHub Streak" />
 </p>
 
 ---
