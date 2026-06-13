@@ -50,7 +50,6 @@ I build high-performance, type-safe digital ecosystems. My workflow is anchored 
 </p>
 
 ### ⚛️ Exploration: Quantum & AI Research
-
 <p align="left">
 <img alt="PennyLane" src="https://img.shields.io/badge/PennyLane-QML-9A66FF?style=for-the-badge" />
 <img alt="Qiskit" src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" />
@@ -60,21 +59,38 @@ I build high-performance, type-safe digital ecosystems. My workflow is anchored 
 
 ---
 
-## 🚀 Active Engineering
+## 🚀 Active Research & Engineering
 
 ### 🛰️ **Major:** Quantum ML for Galactic Morphology
 > *Deep-space analysis using Hybrid Classical-Quantum models.*
-- Utilizing **Variational Quantum Classifiers (VQC)** on NASA Kepler datasets to improve planetary transit detection.
-- Benchmarking Quantum Feature Maps against classical CNNs for Galaxy Classification.
+- Utilizing **Variational Quantum Classifiers (VQC)** on NASA Kepler datasets to improve planetary transit detection in noisy light curves.
+- Benchmarking Quantum Feature Maps against classical CNNs for automated Galaxy Classification.
 
-### 📱 **Inpulse LMS** (KMM Ecosystem)
-> *Full-cycle Enterprise Learning Management System.*
-- **Mobile:** Shared **KMM** logic with **Ktor** and **SQLDelight**.
-- **Web:** **Next.js** dashboard featuring real-time evaluation rubrics.
-- **Backend:** Scalable **Node.js** multi-tenant architecture.
+---
 
-### 🌍 **Global Voyager**
-> *KMM-powered Travel App with offline-first synchronization.*
+## 🛠️ Featured Engineering Projects
+
+### 📱 [KhataPe — Shared Expense Tracker](https://github.com/AjithGoveas/KhataPe) | `Dec 2025 – Jan 2026`
+> *Offline-First Native Ledger Application*
+- **Stack:** Kotlin, Jetpack Compose, Room DB, WorkManager, Preferences DataStore, MVI, Clean Architecture.
+- Architected a robust mobile system to resolve complex peer debt graphs using an asynchronous local data layer.
+- Engineered reactive state pipelines leveraging Kotlin Flows and persistent key-value configuration states.
+- Scheduled background background processing syncs via `WorkManager` for transactional data queuing under volatile network states.
+- *💡 **Want to try it out?** Grab the latest production APK ready to install from the [GitHub Releases](https://github.com/AjithGoveas) tab.*
+
+### 🔍 [Transliterator (Smart India Hackathon 2025)](https://github.com/AjithGoveas/transliterator) | `Sep 2025 – Nov 2025`
+> *Real-Time Cross-Vernacular Mobile Script Converter*
+- **Stack:** Camera2 API, Android SDK, Kotlin, FastAPI, Google ML Kit, Aksharamukha, Python.
+- Built a native performance mobile script conversion subsystem capable of streaming raw camera buffers in real-time.
+- Designed a high-throughput processing pipeline utilizing on-device Google ML Kit OCR configurations for sub-second text extraction.
+- Established low-latency connections between async Android clients and a localized custom FastAPI inference backend.
+
+### 🚘 [AI Traffic Violation & OCR Pipeline](https://github.com/Pranava-Pai-N/AI-DRIVEN-OVERSPEEDING-DETECTION-PES-HACKATHON) | `Feb 2025 – Sep 2025`
+> *Computer Vision Analytics & Administrative Control Room*
+- **Stack:** Python, YOLOv8, OpenCV, Tesseract OCR, React, Node.js, RESTful APIs.
+- Engineered a computer vision object detection and tracking stream processing at 30+ FPS during an intensive IEEE Hackathon.
+- Implemented Tesseract OCR and tuned custom binarization and localization thresholds to automate license plate isolation in sub-optimal exposure environments.
+- Architected a full-stack administrative command dashboard using Vite + React bound to an internal orchestration backend via structured RESTful routing layers.
 
 ---
 
@@ -95,7 +111,7 @@ I build high-performance, type-safe digital ecosystems. My workflow is anchored 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithgoveas&theme=radical" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajithgoveas&theme=radical" width="96%" alt="GitHub Streak" />
 </p>
 
 ---
